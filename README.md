@@ -1,1 +1,2 @@
 # SETT-LAB-PROJECTS
+This repository presents experimental investigations into fluid-surface interactions conducted under the guidance of Prof. Soumyadip Sett at IIT Gandhinagar. Investigated droplet impact on bare and CuO-coated superhydrophobic copper meshes using high-speed imaging. Analyzed condensation on copper plates and foams with varied wettability, showing enhanced performance on superhydrophobic surfaces. Demonstrates how surface treatments influence droplet dynamics and condensation efficiency.
